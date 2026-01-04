@@ -1,0 +1,1 @@
+vless://5352fd62-f2d2-492e-bb44-89433bea9d6d@185.228.236.73:8030?type=ws&path=%2Fhome.main&host=zula.ir&security=none#XEVVB-Vida
